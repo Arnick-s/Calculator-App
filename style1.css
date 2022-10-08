@@ -1,0 +1,46 @@
+.container{
+    background-color: hsl(0, 0%, 90%);
+}
+
+.top,.theme_no{
+    color: hsl(60, 10%, 19%);
+}
+
+.theme,.box{
+    background-color: hsl(0, 5%, 81%);
+}
+
+.box1{
+    background-color: hsl(25, 96%, 45%);
+}
+
+.screen{
+    color: hsl(221, 14%, 31%);
+    background-color: hsl(0, 0%, 93%);
+}
+
+.keypad{
+    background-color: hsl(0, 5%, 81%);
+}
+
+.btn{
+    color: hsl(60, 10%, 19%);
+    box-shadow: 0 6px 0 hsl(35, 11%, 61%);
+    border-width: 0px;
+}
+
+.btn{
+    background-color: hsl(45, 7%, 89%);
+}
+#DEL,#RESET{
+    color: white;
+    background-color:hsl(185, 46%, 50%);
+    box-shadow: 0 6px 0 hsl(185, 58%, 25%);
+}
+
+#equal{
+    color: white;
+    background-color: hsl(25, 96%, 45%);
+    box-shadow: 0 6px 0 hsl(25, 99%, 27%);
+
+}
